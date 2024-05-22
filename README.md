@@ -1600,10 +1600,6 @@ export const Category = ({ category }: CategoryProps) => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-Assets used in the project can be found [here](https://drive.google.com/file/d/1TVhdnD97LajGsyaiNa6sDs-ap-z1oerA/view?usp=sharing)
-
 
 
 **Advance your skills with Next.js 14 Pro Course**
